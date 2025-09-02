@@ -65,9 +65,10 @@ This project demonstrates the end-to-end Power BI workflow, covering data prepar
 
 This is a Home Page of our dashboard. It contains a project name, project objective with a short project description. It also includes a dashboard page navigator and a help buttion to guide users on how to interact with the dashboard.
 
-![Data Model](/Images/Data%20Model.jpg)
 
+![Data Model](/Images/Data%20Model.jpg)
 This is the model view of our dashboard. It shows which tables are exist in our data model and how they are relate to each other. This helps any reviewer or third party understand how the data model was designed.
+
 
 ![Overall Sales Insights](/Images/Sales%20Insights_Overall.jpg)
 
@@ -78,21 +79,26 @@ This is the overall sales insights dashboard. It highlights key KPIs like Total 
 
 This is the sales insights drill-down for the year 2017. It shows key KPIs like Total orders, Total Sales, Total Profit, and Profit Margin for the year 2017 (as you can see left top corner, filter has been applied for year slicer). This also shows Month-over-Month Total Sales or Revenue Growth / Decline as well as compare Month-over-Month Profit Growth / Decline for the year 2017.
 
+
 ![Overall Product Insights](/Images/Product%20Insights_Overall.jpg)
 
 This is the overall product insights dashboard. It compares product categories and sub-categories as well as shows best and worst performing products in terms of total sales or revenue for complete data (means without applying any filter). Users can drill down by year or region for more specific insights. For Example, See the next image.
+
 
 ![Product Insights Drill-down for a specific year (2014) & for a specific region (south)](/Images/Product%20Insights%20Drill-Down%20for%20a%20specific%20year%20(2014)%20with%20a%20specific%20Region%20(South).jpg)
 
 This is the product insights drill-down for the year 2014 and for the region south. Best- and worst-performing products differ significantly compared to the overall dataset, highlighting the importance of regional analysis.
 
+
 ![Overall Consumer Insights](/Images/Consumer%20Insights_Overall.jpg)
 
 This is the overall consumer insights dashboard. It demonstrates which consumer segment, region, and states contributing most to our revenue (cover complete data, means without applying any filter). It also reveals product preferences by segment and geography. This page can also be drill-down by a specific year to see year specific details. For instance, see the next image.
 
+
 ![Consumer Insights Drill-down for a specific year 2014](/Images/Consumer%20Insights%20Drill-Down%20for%20a%20specific%20year%20(2014).jpg)
 
 This is the consumer insights drill-down for the year 2014. Results vary significantly compared to the overall dataset, allowing deeper exploration of consumer behavior.
+
 
 ## Conclusion
 
@@ -107,8 +113,6 @@ The Superstore Sales Data Analytics project demonstrates how raw sales data can 
 - 👥 Analyzed customer segments and geographic markets contributing most to revenue.
 
 - 🎛️ Delivered an interactive, user-friendly dashboard that supports data-driven decision-making for business development and sales strategy.
-
-This project reflects my ability to design, build, and deliver BI solutions that not only visualize data but also provide meaningful insights for strategic decision making.
 
 **Key Takeaways from this project**
 
